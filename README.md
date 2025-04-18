@@ -1,3 +1,9 @@
+# Установка
+```
+ git clone git@github.com:ctrlVadim/snake.git
+ python3 __main__.py
+```
+
 # Запуск
 ```
  python3 __main__.py
