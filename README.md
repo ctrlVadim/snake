@@ -1,8 +1,9 @@
 # Установка
 ```
- git clone git@github.com:ctrlVadim/snake.git
- poetry install
- python3 __main__.py
+    git clone git@github.com:ctrlVadim/snake.git
+    cd snake
+    python3 -m venv venv
+    poetry install
 ```
 
 # Запуск
