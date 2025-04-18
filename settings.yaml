@@ -1,0 +1,17 @@
+game:
+  frame_rate: 40
+  food_limit: 20
+
+food:
+  color: "red"
+  score: 10
+
+window:
+  background_color: "black"
+  width: 400
+  height: 400
+  grid_size: 20
+
+snake:
+  color: "green"
+  head_color: "lime"
